@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/led_screen/LEDPresenter.hpp:28:13:LEDPresenter::~LEDPresenter()	0	static
+C:/TouchGFXProjects/GPIO_CONTROL_F429/TouchGFX/gui/src/led_screen/LEDPresenter.cpp:10:6:virtual void LEDPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/led_screen/LEDPresenter.hpp:28:13:virtual LEDPresenter::~LEDPresenter()	8	static
+../../TouchGFX/gui/include/gui/led_screen/LEDPresenter.hpp:28:13:virtual void* LEDPresenter::_ZThn4_N12LEDPresenterD1Ev()	0	static
+C:/TouchGFXProjects/GPIO_CONTROL_F429/TouchGFX/gui/src/led_screen/LEDPresenter.cpp:4:1:LEDPresenter::LEDPresenter(LEDView&)	8	static
